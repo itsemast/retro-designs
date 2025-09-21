@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "943bb5a2-da39-4fff-b96b-04b08b617828")
+	(paper "A5")
+	(title_block
+		(title "PC XT 256/640K System Board")
+		(rev "MAR86")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
