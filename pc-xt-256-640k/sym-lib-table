@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ibm_74xx")(type "KiCad")(uri "${KIPRJMOD}/../symbols/ibm_74xx.kicad_sym")(options "")(descr ""))
+  (lib (name "ibm_intel")(type "KiCad")(uri "${KIPRJMOD}/../symbols/ibm_intel.kicad_sym")(options "")(descr ""))
+  (lib (name "ibm_memory")(type "KiCad")(uri "${KIPRJMOD}/../symbols/ibm_memory.kicad_sym")(options "")(descr ""))
+  (lib (name "ibm_misc")(type "KiCad")(uri "${KIPRJMOD}/../symbols/ibm_misc.kicad_sym")(options "")(descr ""))
+)
