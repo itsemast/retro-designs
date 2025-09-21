@@ -612,6 +612,14 @@
     [
       "943bb5a2-da39-4fff-b96b-04b08b617828",
       "Root"
+    ],
+    [
+      "b902ffb0-6137-4bdd-ad8c-39980dcb5e14",
+      "Processor and Support"
+    ],
+    [
+      "4959fce3-9014-40f8-b43b-2f87803057de",
+      "Wait State Generator"
     ]
   ],
   "text_variables": {}
