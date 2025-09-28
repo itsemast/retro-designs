@@ -411,6 +411,50 @@
     [
       "baaf4126-2494-419a-aed4-a2aa937a9ad1",
       "Root"
+    ],
+    [
+      "cc01dc62-4e0d-4aab-9135-75f8e1dfdb45",
+      "Processor and Support"
+    ],
+    [
+      "5db8bd1f-e28b-442a-b098-d5916c5dd2dc",
+      "Wait State Generator"
+    ],
+    [
+      "1999c1cc-ceca-4ca4-bc06-86effc6baa34",
+      "Device Decoders"
+    ],
+    [
+      "439d8be8-d7e7-4ced-8fb6-ce8736d58c01",
+      "ROS and Bus Drivers"
+    ],
+    [
+      "aca303cb-5e42-42d5-9a88-03b8c9bdd94e",
+      "DMA"
+    ],
+    [
+      "7fdaa5c5-8631-41ef-ba06-f305d7024e7a",
+      "Dynamic Memory"
+    ],
+    [
+      "dab2aa2e-b060-4a85-830a-1d15e77d07a8",
+      "Dynamic Memory Extended"
+    ],
+    [
+      "0cfa6892-7c5b-4afe-96ea-74cd2cd1ddd2",
+      "SpeakerTimerCounter"
+    ],
+    [
+      "55d83992-e882-42b3-af59-727db76c013e",
+      "KeyboardSenseControl"
+    ],
+    [
+      "2aa57790-a2cf-4a26-8a84-ec84349d8a12",
+      "IO Channel"
+    ],
+    [
+      "70cce917-9d73-4216-859b-51df95a50ade",
+      "Expansion Slot 8"
     ]
   ],
   "text_variables": {}
